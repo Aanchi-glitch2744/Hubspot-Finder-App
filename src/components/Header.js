@@ -26,7 +26,7 @@ class Header extends Component {
                <ReactBootStrap.Col sm className = "welcome-spotsthree"><Link to="/voter">Vote Famous Spots </Link></ReactBootStrap.Col>
              </ReactBootStrap.Row>
            </ReactBootStrap.Container>
-           <br /> <br /> <br />
+           <br /> <br />
            
         {/* end of body container div */}
         </div> 
